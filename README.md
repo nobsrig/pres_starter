@@ -2,4 +2,4 @@
 
 ### Presentation Starter
 
-with (Flowtime.js)[http://flowtime-js.marcolago.com/]
+with [Flowtime.js](http://flowtime-js.marcolago.com/)
